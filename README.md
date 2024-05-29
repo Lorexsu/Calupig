@@ -8,7 +8,7 @@ For the Github Page project activity
 
 - [About](#about)
 - [Contact](#contact)
-- [Usage](#Usage)
+- [Usage](#usage)
 
 ## About
 
