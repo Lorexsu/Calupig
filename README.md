@@ -8,6 +8,7 @@ For the Github Page project activity
 
 - [About](#about)
 - [Contact](#contact)
+- [Usage](#Usage)
 
 ## About
 
@@ -18,7 +19,7 @@ Gmail: rolex.calupig@gmail.com
 
 Number: 09543547812
 
-```bash
+## Usage
 # Clone the repository
 git clone https://github.com/<Lorex>/<Calupig>.git
 
