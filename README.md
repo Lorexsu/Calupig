@@ -3,6 +3,7 @@
 
 git clone https://github.com/<username>/<username>.github.io.git
 cd <username>.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +19,7 @@ cd <username>.github.io
     </style>
 </head>
 <body>
-    <h1>Welcome to My GitHub Page</h1>
-    <p>This is a simple GitHub Page created by me.</p>
+    <h1> Welcome to My GitHub Page </h1>
+    <p> This is a simple GitHub Page created by me .</p>
 </body>
 </html>
