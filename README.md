@@ -24,7 +24,7 @@ Number: 09543547812
 git clone https://github.com/<Lorex>/<Calupig>.git
 
 # Navigate to the project directory
-https://github.com/<Lorexsu>/<calupig><tree><main><Calupig>
+https://github.com/<Lorexsu>/<calupig>/<tree>/<main>/<Calupig>
 
 
 
