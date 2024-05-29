@@ -24,7 +24,6 @@ Number: 09543547812
 https://github.com/Lorexsu/Calupig
 
 # Navigate to the project directory
-https://github.com/Lorexsu/Calupig/tree/main/Calupig
 <a href="https://github.com/Lorexsu/Calupig/tree/main/Calupig" target="https://github.com/Lorexsu/Calupig/tree/main/Calupig">My Project Repository</a></p>
 
 
