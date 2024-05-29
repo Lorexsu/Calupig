@@ -1,30 +1,4 @@
 # Calupig
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
-        }
-        header {
-            background-color: #4CAF50;
-            padding: 10px 0;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Welcome to My GitHub Page</h1>
-    </header>
-    <p>This is a simple GitHub Page created by me.</p>
-</body>
-</html>
 
 ## Github Activity 
 
